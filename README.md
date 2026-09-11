@@ -1,6 +1,6 @@
-Rainbow Rush
+Rainbow Stampede
 
-Rainbow Rush is a fast, single-file browser action game about building an evolving unicorn herd, firing enormous rainbows, and surviving the Nightmare King's army.
+Rainbow Stampede is a fast, single-file browser action game about building an evolving unicorn herd, firing enormous rainbows, and surviving the Nightmare King's army.
 
 Choose a difficulty, guide the herd between lanes, collect gates and power-ups, dodge hazards with magical backflips, and defeat the Nightmare King every ten waves.
 
@@ -78,5 +78,5 @@ Runs can include shields, Mega Rainbows, freezing, bombs, all-lane homing, mirro
 ## Files
 
 - `index.html` — playable game
-- `rainbow-rush.zip` — compact competition build
+- `rainbow-stampede.zip` — compact competition build
 - `README.md` — this guide
